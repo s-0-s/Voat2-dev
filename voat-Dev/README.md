@@ -1,13 +1,13 @@
-# Voat
+# Voat  TWO bitches!  (name is still seeeecret!)
 [![Build status](https://ci.appveyor.com/api/projects/status/gmrwwisseq07emb4/branch/master?svg=true)](https://ci.appveyor.com/project/voat/voat/branch/master)
 [![license](http://img.shields.io/badge/license-GNU-blue.svg)](https://raw.githubusercontent.com/voat/voat/master/LICENSE)
 
 <img height="252" width="345" src="Voat/Voat.UI/Graphics/voat-goat.png" alt="Voat mascot" title="Voat" align="right" />
 
-This is the code behind http://www.voat.co.
+This is the code behind http://www.voat.co.  and will now become the code behind voat2 (secret name!)
 
 ### Description
-Voat is a media aggregator and community platform developed in C# ASP.NET MVC 5.
+Voat is a media aggregator and community platform developed in C# ASP.NET MVC 5.  and now run by shills who censored the hell out of it.
 
 ### Dependencies and attributions
 Voat uses SQL server and .NET framework 4.5.
